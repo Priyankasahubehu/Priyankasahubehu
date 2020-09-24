@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Priyanka. 👋
 
+## I'm a QA, performing manual testing and planning to learn automation.
+<br />
+- ⚡ Fun fact- Singing.
+<br />
+## Automation Frameworks:
+<!--- Languages --->
+<img align="left" alt="Selenium" width="26px" src="https://static.javatpoint.com/tutorial/selenium/images/selenium-tutorial.jpg" />
+<img align="left" alt="Jira" width="26px" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/102951300/original/23504b3df7d16abe6a6d39cac93c3ad3a4ee20af/set-up-your-jira-confluence-and-service-desk.png" />
 <!--
 **Priyankasahubehu/Priyankasahubehu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
